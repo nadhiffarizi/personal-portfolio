@@ -1,0 +1,4 @@
+background: #090E16
+navbar: #0e1120
+component: #14142B
+font: 7B4AE2/white

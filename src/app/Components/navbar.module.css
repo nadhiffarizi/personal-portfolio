@@ -1,0 +1,10 @@
+.menubarText {
+  color: theme(colors.neutral.50);
+  opacity: theme(opacity.50);
+}
+
+.menubarText:focus {
+  color: #694cbe;
+  opacity: theme(opacity.100);
+  font-weight: bold;
+}
