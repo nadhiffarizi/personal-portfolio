@@ -122,15 +122,15 @@ export function HeroSection() {
           </button>
           <button>
             <a
-              className="flex items-center w-36 h-10 p-1 border rounded-xl"
+              className="flex justify-center items-center w-36 h-10 p-1 border rounded-xl"
               style={{ borderColor: "#3A286E" }}
               href="https://api.whatsapp.com/send/?phone=081399199545&text&type=phone_number&app_absent=0"
             >
-              <img
+              {/* <img
                 className="ms-1 me-2 object-contain"
-                src="./HeroAssets/whatsappLogo.svg"
+                src="./HeroAssets/whatsapp.svg"
                 alt="whatsappicon"
-              />
+              /> */}
               <span className="font-lg font-bold" style={{ color: "#3A286E" }}>
                 Let&apos;s Talk!
               </span>

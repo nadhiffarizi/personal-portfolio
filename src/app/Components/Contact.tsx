@@ -31,11 +31,11 @@ export function Contact() {
               className="flex justify-center items-center md:w-36 xs:w-28 h-10 p-1 border rounded-xl"
               style={{ borderColor: "#3A286E" }}
             >
-              <img
+              {/* <img
                 className="ms-1 me-2 object-contain"
-                src="./HeroAssets/whatsappLogo.svg"
+                src="./HeroAssets/whatsapp.svg"
                 alt="whatsappicon"
-              />
+              /> */}
               <span
                 className="md:text-lg xs:text-sm font-bold"
                 style={{ color: "#3A286E" }}
